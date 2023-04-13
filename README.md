@@ -1,7 +1,11 @@
 # E-Ruin-Mapper
 
 ### === Version 1.0 ===
+### Installation
+Nécessite une extension de navigateur pour utiliser un Userscript (Ex: TamperMonkey, GreaseMonkey, ...)
 
+Lien direct vers le Userscript : [E-Ruin Mapper.user.js](https://github.com/Apofoo/E-Ruin-Mapper/raw/main/E-Ruin%20Mapper.user.js).
+##
 ### Fonctionnement
 Un clic sur l'icone Ruine à coté de l'icone MH Messagerie pour afficher/masquer le plan.
 Le plan reste visible tant que la page n'est pas rafraîchi.
@@ -9,6 +13,7 @@ Entrer ou sortir de la ruine n'efface pas le plan.
 
 ⚠ Attention, en cas d'expulsion de la ruine par manque d'O², le plan ne sera pas sauvegardée ⚠
 
+##
 ### Raccourcis clavier
 
 Déplacements :
