@@ -99,7 +99,7 @@
         let erm_ToggleIcon = document.createElement('img');
         erm_ToggleIcon.src = erm_ERuinIcon.src;
         erm_ToggleContainer.appendChild(erm_ToggleIcon);
-        erm_ToggleContainer.setAttribute('style', 'right: 43px');
+        erm_ToggleContainer.setAttribute('style', 'right: 45px');
 
         // Toggle Icon Event
         erm_ToggleIcon.addEventListener('click', (event) => {
@@ -107,9 +107,6 @@
                 event.preventDefault();
                 erm_ToggleMap();
         })
-
-        // Place Toggle Icon
-        erm_ToggleContainer.setAttribute('style', `right: 43px`);
 
         // Add Icon to Header
         mh_Header.appendChild(erm_ToggleContainer);
@@ -120,7 +117,7 @@
     {
         let postbox = document.getElementById('postbox');
         offsetWidth = postbox.getBoundingClientRect().width - 26;
-        let pos = (document.getElementById('optimizer-btn')) ? 93 : 43;
+        let pos = (document.getElementById('optimizer-btn')) ? 99 : 45;
         pos += offsetWidth;
         document.getElementById('erm_ToggleContainer').setAttribute('style', `right: ${pos}px`);
     }
