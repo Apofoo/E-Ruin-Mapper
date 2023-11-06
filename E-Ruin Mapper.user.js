@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         E-Ruin Mapper
-// @version      1.01
+// @version      1.02
 // @description  Tool to help map ERuin on MyHordes
 // @author       Apofoo
 // @match        https://myhordes.eu/*
 // @match        https://myhordes.de/*
-// @match        https://myhordes.es/*
+// @match        https://myhord.es/*
 // @match        http://mhserver/*
 // @icon         https://myhordes.de/build/images/favicon.a07654e3.ico
 // @grant        none
