@@ -1,5 +1,8 @@
 # E-Ruin-Mapper
 
+```diff
+-Disclaimer : Ce script ne fonctionne pour l'instant pas encore avec les étages dans la ruine. (MH S16)
+```
 ### === Version 1.0 ===
 ### Installation
 Nécessite une extension de navigateur pour utiliser un Userscript (Ex: TamperMonkey, GreaseMonkey, ...)
